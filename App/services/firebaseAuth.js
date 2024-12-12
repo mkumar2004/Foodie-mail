@@ -12,7 +12,7 @@ const firebaseConfig = {
   authDomain: "foodie-mail-6d483.firebaseapp.com",
   projectId: "foodie-mail-6d483",
   storageBucket: "foodie-mail-6d483.firebasestorage.app",
-  messagingSenderId: "877483178230",
+  messagingSenderId: "",
   appId: ""
 };
 
