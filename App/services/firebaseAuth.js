@@ -8,12 +8,7 @@ import RectNativeAsyncStorage from '@react-native-async-storage/async-storage'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "foodie-mail-6d483.firebaseapp.com",
-  projectId: "foodie-mail-6d483",
-  storageBucket: "foodie-mail-6d483.firebasestorage.app",
-  messagingSenderId: "",
-  appId: ""
+ 
 };
 
 let auth;
